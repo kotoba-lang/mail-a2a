@@ -16,6 +16,7 @@ security formats:
 
 Status: **Experimental community specification, binding version 1.0.** It is
 designed as an A2A custom protocol binding but is not an official A2A binding.
+The upstream proposal is [a2aproject/A2A issue #2191](https://github.com/a2aproject/A2A/issues/2191).
 
 Normative specification: [spec/v1.md](spec/v1.md)  
 Machine schema: [schema/envelope-v1.schema.json](schema/envelope-v1.schema.json)  
