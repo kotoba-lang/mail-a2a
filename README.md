@@ -75,7 +75,7 @@ ordering. It intentionally does not parse MIME or perform cryptography.
 
 ```sh
 clojure -M:test
-nbb --classpath "src:test" scripts/run-tests.cljs
+nbb --classpath "src:test" scripts/run-tests.cljk
 ```
 
 Apache-2.0.
