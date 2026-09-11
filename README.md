@@ -74,8 +74,8 @@ ordering. It intentionally does not parse MIME or perform cryptography.
 ## Verification
 
 ```sh
-clojure -M:test
-nbb --classpath "src:test" scripts/run-tests.cljk
+kbb -M:test
+kbb --backend sci --classpath "src:test" scripts/run-tests.cljk
 ```
 
 Apache-2.0.
