@@ -1,5 +1,5 @@
 (ns run-tests
-  (:require [clojure.test :as t]
+  (:require [kotoba.test :as t]
             [mail-a2a.core-test]))
 
 ;; Why the exit code comes from a report method and not from the return value
