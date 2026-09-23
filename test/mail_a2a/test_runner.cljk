@@ -1,5 +1,5 @@
 (ns mail-a2a.test-runner
-  (:require [clojure.test :as t]
+  (:require [kotoba.test :as t]
             [mail-a2a.core-test]))
 
 (defn -main [& _]

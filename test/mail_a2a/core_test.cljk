@@ -1,5 +1,5 @@
 (ns mail-a2a.core-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [mail-a2a.core :as sut]))
 
 (def request
